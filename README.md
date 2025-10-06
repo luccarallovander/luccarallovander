@@ -4,6 +4,21 @@ I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in
 
 ---
 
+## 🚀 Publications
+
+Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025) “Revisiting Moral Contagion Theory in Social Media Data” (forthcoming).
+
+## 🚀 Featured Projects
+
+| Project | What it does / Why it’s interesting |
+|---|---|
+| [LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | Thesis work: fine-tune LLMs to classify political texts by ideology, compare performance |
+| [Predicting-AI-Adoption-from-Survey-Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | Use survey features + tree models to predict who adopts AI and understand feature importances |
+| [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial analysis: combine mobility, hospital reviews, travel times to assess access to care |
+| … more pinned / upcoming work … | … |
+
+---
+
 ## 🧠 Skills & Tools
 
 | Domain | Tools / Languages |
@@ -16,16 +31,6 @@ I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does / Why it’s interesting |
-|---|---|
-| [LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | Thesis work: fine-tune LLMs to classify political texts by ideology, compare performance |
-| [Predicting-AI-Adoption-from-Survey-Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | Use survey features + tree models to predict who adopts AI and understand feature importances |
-| [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial analysis: combine mobility, hospital reviews, travel times to assess access to care |
-| … more pinned / upcoming work … | … |
-
----
 
 ## 📫 Contact Me
 
