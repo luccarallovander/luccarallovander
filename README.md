@@ -31,11 +31,13 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 
 | Domain | Tools / Languages |
 |---|---|
-| Data Wrangling & Analysis | Python (pandas, geopandas), R (tidyverse) |
-| Machine Learning & NLP | scikit-learn, XGBoost, HuggingFace transformers, NLTK, spaCy |
-| Spatial / Geo / APIs | `geopandas`, `folium`, `shapely`, Google Maps APIs |
-| Viz / Dashboards | `matplotlib`, `seaborn`, Plotly, Dash / Streamlit |
-| Reproducibility / DevOps | `git`, GitHub Actions, `requirements.txt` / `environment.yml` |
+| **Programming & Data Science** | Python (pandas, scikit-learn, PyTorch, APIs), R (tidyverse, econometrics, visualization), SQL (data modelling, joins, complex queries) |
+| **Machine Learning (ML)** | Regression, classification, ensemble methods (XGBoost, LightGBM, Random Forests), model evaluation, cross-validation, and end-to-end ML pipelines |
+| **Natural Language Processing (NLP)** | Transformer-based LLMs (HuggingFace, GPT models), topic modelling, sentiment analysis, and text classification |
+| **Web Scraping & Automation** | BeautifulSoup, `requests`, Selenium / RSelenium, and API integration for data collection |
+| **Spatial / Geo Analysis** | `geopandas`, `sf`, `shapely`, `folium`, Google Maps APIs, travel-time and accessibility modelling |
+| **Data Visualization & BI** | `matplotlib`, `seaborn`, `ggplot2`, Plotly, Dash, Streamlit, Power BI, Tableau, Alteryx |
+| **Reproducibility / DevOps** | Git & GitHub, GitHub Actions, `requirements.txt`, `environment.yml`, `renv`, and collaborative version control |
 
 ---
 
