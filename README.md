@@ -7,8 +7,8 @@ I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in
 ## 🔬 Publications
 
 Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025) “Revisiting Moral Contagion Theory in Social Media Data” (forthcoming).
+[Revisiting-Moral-Contagion-Theory-in-Social-Media-Data](https://github.com/luccarallovander/Revisiting-Moral-Contagion-Theory-in-Social-Media-Data)
 
-[LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts)
 ---
 
 ## 🚀 Featured Projects
