@@ -6,19 +6,24 @@ I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in
 
 ## 🔬 Publications
 
-Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025) “Revisiting Moral Contagion Theory in Social Media Data” (forthcoming).
-[Revisiting-Moral-Contagion-Theory-in-Social-Media-Data](https://github.com/luccarallovander/Revisiting-Moral-Contagion-Theory-in-Social-Media-Data)
+**Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025)** “Revisiting Moral Contagion Theory in Social Media Data” (forthcoming).
+[🔗 GitHub Repository](https://github.com/luccarallovander/Revisiting-Moral-Contagion-Theory-in-Social-Media-Data)
 
 ---
+
 
 ## 🚀 Featured Projects
 
 | Project | What it does / Why it’s interesting |
 |---|---|
-| [LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | Thesis work: fine-tune LLMs to classify political texts by ideology, compare performance |
-| [Predicting-AI-Adoption-from-Survey-Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | Use survey features + tree models to predict who adopts AI and understand feature importances |
-| [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial analysis: combine mobility, hospital reviews, travel times to assess access to care |
-| … more pinned / upcoming work … | … |
+| [LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | MSc thesis: fine-tunes large language models (LLMs) to classify political texts by ideology and assess shifts in nationalist discourse |
+| [LLM-Fake-News-Detection-Algorithm](https://github.com/luccarallovander/LLM-Fake-News-Detection-Algorithm) | Develops and evaluates transformer-based models for fake news detection using explainable AI methods |
+| [Predicting-AI-Adoption-from-Survey-Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | Predicts individual AI adoption using tree-based models and interpretable ML applied to national survey data |
+| [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial data analysis combining travel times, hospital data, and borough-level indicators to assess healthcare accessibility |
+| [Causal-Inference-Paper-Reappraisal](https://github.com/luccarallovander/Causal-Inference-Paper-Reappraisal) | Reproduces and re-evaluates findings from a published causal inference paper, applying robustness checks and alternative specifications |
+| [Machine-Learning-Prediction-Challenge](https://github.com/luccarallovander/Machine-Learning-Prediction-Challenge) | Implements and compares regularized regression and ensemble models under cross-validation for a predictive modelling task |
+| [Detecting-Cheating-in-Online-Video-Games-Data](https://github.com/luccarallovander/Detecting-Cheating-in-Online-Video-Games-Data) | Builds a simulation-based classifier to identify patterns of cheating in online gaming datasets |
+| [Web-Scraping-Project-U.S.-Senate-Hearing-Transcripts](https://github.com/luccarallovander/Web-Scraping-Project-U.S.-Senate-Hearing-Transcripts) | Automates web scraping and text extraction of U.S. Senate hearing transcripts for computational text analysis |
 
 ---
 
