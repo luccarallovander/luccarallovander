@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Lucca Rallo Vanderchmitt
 
-<!--
-**luccarallovander/luccarallovander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in Applied Social Data Science** from LSE. I build data-driven tools and analyses using open data, machine learning, and causal inference methods in social science contexts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+
+| Domain | Tools / Languages |
+|---|---|
+| Data Wrangling & Analysis | Python (pandas, geopandas), R (tidyverse) |
+| Machine Learning & NLP | scikit-learn, XGBoost, HuggingFace transformers, NLTK, spaCy |
+| Spatial / Geo / APIs | `geopandas`, `folium`, `shapely`, Google Maps APIs |
+| Viz / Dashboards | `matplotlib`, `seaborn`, Plotly, Dash / Streamlit |
+| Reproducibility / DevOps | `git`, GitHub Actions, `requirements.txt` / `environment.yml` |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does / Why it’s interesting |
+|---|---|
+| [LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | Thesis work: fine-tune LLMs to classify political texts by ideology, compare performance |
+| [Predicting-AI-Adoption-from-Survey-Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | Use survey features + tree models to predict who adopts AI and understand feature importances |
+| [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial analysis: combine mobility, hospital reviews, travel times to assess access to care |
+| … more pinned / upcoming work … | … |
+
+---
+
+## 📫 Contact Me
+
+- **Personal website / portfolio**: [luccarallovander.github.io](https://luccarallovander.github.io)  
+- **LinkedIn**: [in/lucca-rallo-vanderchmitt](https://www.linkedin.com/in/lucca-rallo-vanderchmitt)  
+- **Email**: [your-email@example.com] (or you can leave as contact via LinkedIn)
+
+---
+
+## 🗺 How to Explore
+
+1. Start with **LLM-Classifier-of-Political-Texts** (this is my most technical and narrative project).  
+2. Then explore **Predicting-AI-Adoption** to see my survey / ML side.  
+3. Finally, **Healthcare-Accessibility** shows my spatial & data-integration abilities.
+
+You’ll also find smaller works, experiments, and code snippets in my other repos.
+
+---
+
