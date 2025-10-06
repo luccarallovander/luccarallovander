@@ -8,6 +8,8 @@ I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in
 
 Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025) “Revisiting Moral Contagion Theory in Social Media Data” (forthcoming).
 
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does / Why it’s interesting |
@@ -40,13 +42,4 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 
 ---
 
-## 🗺 How to Explore
-
-1. Start with **LLM-Classifier-of-Political-Texts** (this is my most technical and narrative project).  
-2. Then explore **Predicting-AI-Adoption** to see my survey / ML side.  
-3. Finally, **Healthcare-Accessibility** shows my spatial & data-integration abilities.
-
-You’ll also find smaller works, experiments, and code snippets in my other repos.
-
----
 
