@@ -44,7 +44,7 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 
 - **Personal website / portfolio**: [luccarallovander.github.io](https://luccarallovander.github.io)  
 - **LinkedIn**: [in/lucca-rallo-vanderchmitt](https://www.linkedin.com/in/lucca-rallo-vanderchmitt)  
-- **Email**: [your-email@example.com] (or you can leave as contact via LinkedIn)
+- **Email**: [l.rallo.vanderchmitt@gmail.com] (or you can leave as contact via LinkedIn)
 
 ---
 
