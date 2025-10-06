@@ -1,12 +1,12 @@
 # 👋 Lucca Rallo Vanderchmitt
 
-I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in Applied Social Data Science** from LSE. I build data-driven tools and analyses using open data, machine learning, and causal inference methods in social science contexts.
+I’m a **Research Associate at Oxford Internet Institute** and hold an **MSc in Applied Social Data Science** from LSE. I build data-driven tools and analyses using open data, machine learning, and causal inference methods spanning computational social science and applied industry work.
 
 ---
 
 ## 🔬 Publications
 
-**Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025)** “Revisiting Moral Contagion Theory in Social Media Data” (forthcoming).
+Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025), “Revisiting Moral Contagion Theory in Social Media Data” (forthcoming).
 [🔗 GitHub Repository](https://github.com/luccarallovander/Revisiting-Moral-Contagion-Theory-in-Social-Media-Data)
 
 ---
