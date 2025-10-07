@@ -16,7 +16,7 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 
 | Project | What it does / Why it’s interesting |
 |---|---|
-| [LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | fine-tunes large language models (LLMs) to classify political texts by ideology and assess shifts in nationalist discourse |
+| [LLM Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | fine-tunes large language models (LLMs) to classify political texts by ideology and assess shifts in nationalist discourse |
 | [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial data analysis integrating TfL mobility data and Google API hospital reviews to map hospital quality vs patient travel times, producing actionable insights. |
 | [ML Imputation of Survey Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | ML modelling predicting individual prioritization of the environment vs the economy, using tree-based models, gradient boosting and interpretable ML applied to oxford internet survey data |
 | [Causal-Inference-Paper-Reappraisal](https://github.com/luccarallovander/Causal-Inference-Paper-Reappraisal) | Reproduces and re-evaluates findings from a published causal inference paper, applying robustness checks and alternative specifications |
