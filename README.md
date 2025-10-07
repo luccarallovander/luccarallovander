@@ -4,7 +4,7 @@ I’m a **Research Associate at the Oxford Computational Political Science Group
 
 ---
 
-## 🔬 Publications
+## Publications
 
 Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2025), **“Revisiting Moral Contagion Theory in Social Media Data”** (forthcoming).
 [🔗 GitHub Repository](https://github.com/luccarallovander/Revisiting-Moral-Contagion-Theory-in-Social-Media-Data)
@@ -12,7 +12,7 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 ---
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does / Why it’s interesting |
 |---|---|
@@ -28,7 +28,7 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 | Domain | Tools / Languages |
 |---|---|
