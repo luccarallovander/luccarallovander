@@ -16,14 +16,15 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 
 | Project | What it does / Why it’s interesting |
 |---|---|
-| [LLM Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | fine-tunes large language models (LLMs) to classify political texts by ideology and assess shifts in nationalist discourse |
-| [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial data analysis integrating TfL mobility data and Google API hospital reviews to map hospital quality vs patient travel times, producing actionable insights. |
-| [ML Imputation of Survey Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | ML modelling predicting individual prioritization of the environment vs the economy, using tree-based models, gradient boosting and interpretable ML applied to oxford internet survey data |
-| [Causal-Inference-Paper-Reappraisal](https://github.com/luccarallovander/Causal-Inference-Paper-Reappraisal) | Reproduces and re-evaluates findings from a published causal inference paper, applying robustness checks and alternative specifications |
-| [LLM-Fake-News-Detection-Algorithm](https://github.com/luccarallovander/LLM-Fake-News-Detection-Algorithm) | Develops and evaluates transformer-based models for fake news detection achieving 98.9% accuracy on held-out data. |
-| [Machine-Learning-Prediction-Challenge](https://github.com/luccarallovander/Machine-Learning-Prediction-Challenge) | Implements and compares regularized regression and ensemble models under cross-validation for a predictive modelling task |
-| [Detecting-Cheating-in-Online-Video-Games-Data](https://github.com/luccarallovander/Detecting-Cheating-in-Online-Video-Games-Data) | Builds a simulation-based classifier to identify patterns of cheating in online gaming datasets |
-| [Web-Scraping-Project-U.S.-Senate-Hearing-Transcripts](https://github.com/luccarallovander/Web-Scraping-Project-U.S.-Senate-Hearing-Transcripts) | Automates web scraping and text extraction of U.S. Senate hearing transcripts for computational text analysis |
+| [LLM Classifier of Political Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | Fine-tunes large language models (LLMs) to classify political texts by ideology and assess shifts in nationalist discourse. |
+| [Healthcare Accessibility in London Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial data analysis integrating TfL mobility data and hospital Google Reviews map hospital quality vs. patient travel times in London, producing actionable insights. |
+| [ML Imputation of Survey Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | Uses machine learning to predict individuals’ prioritization of the environment vs. the economy, applying tree-based models, gradient boosting, and interpretable ML to Oxford Internet Survey data. |
+| [Causal Inference Paper Reappraisal](https://github.com/luccarallovander/Causal-Inference-Paper-Reappraisal) | Reproduces and re-evaluates findings from a published causal inference paper, applying robustness checks and alternative estimators. |
+| [LLM Fake News Detection Algorithm](https://github.com/luccarallovander/LLM-Fake-News-Detection-Algorithm) | Develops and evaluates transformer-based models for fake news detection, achieving 98.9% accuracy on held-out data. |
+| [Machine Learning Prediction Challenge](https://github.com/luccarallovander/Machine-Learning-Prediction-Challenge) | Implements and compares regularized regression and ensemble models under cross-validation for predictive modelling tasks. |
+| [Detecting Cheating in Online Video Games Data](https://github.com/luccarallovander/Detecting-Cheating-in-Online-Video-Games-Data) | Builds a simulation-based classifier to identify behavioural patterns of cheating in online gaming datasets. |
+| [Web Scraping U.S. Senate Hearing Transcripts](https://github.com/luccarallovander/Web-Scraping-Project-U.S.-Senate-Hearing-Transcripts) | Automates web scraping and text extraction of U.S. Senate hearing transcripts for computational text analysis. |
+
 
 ---
 
