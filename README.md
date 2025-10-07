@@ -1,6 +1,6 @@
 # 👋 Lucca Rallo Vanderchmitt
 
-I’m a **Research Associate at the Oxford Internet Institute** and hold an **MSc in Applied Social Data Science** from LSE. I build data-driven tools and analyses using open data, machine learning, and causal inference methods spanning computational social science and applied industry work.
+I’m a **Research Associate at the Oxford Computational Political Science Group** and hold an **MSc in Applied Social Data Science** from LSE. I build data-driven tools and analyses using open data, machine learning, and causal inference methods spanning computational social science and applied industry work.
 
 ---
 
