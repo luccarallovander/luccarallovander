@@ -17,7 +17,7 @@ Yixiang Cheng, C., Rice, J., Rallo Vanderchmitt, L., Bozkurt, B. & Ratnam, R. (2
 | Project | What it does / Why it’s interesting |
 |---|---|
 | [LLM-Classifier-of-Political-Texts](https://github.com/luccarallovander/LLM-Classifier-of-Political-Texts) | fine-tunes large language models (LLMs) to classify political texts by ideology and assess shifts in nationalist discourse |
-| [LLM-Fake-News-Detection-Algorithm](https://github.com/luccarallovander/LLM-Fake-News-Detection-Algorithm) | Develops and evaluates transformer-based models for fake news detection achieving 99% F1-Score. |
+| [LLM-Fake-News-Detection-Algorithm](https://github.com/luccarallovander/LLM-Fake-News-Detection-Algorithm) | Develops and evaluates transformer-based models for fake news detection achieving 98.9% accuracy on held-out data. |
 | [Predicting-AI-Adoption-from-Survey-Data](https://github.com/luccarallovander/Predicting-AI-Adoption-from-Survey-Data) | ML modelling predicting individual AI adoption using tree-based models and interpretable ML applied to national survey data |
 | [Healthcare-Accessibility-in-London-Dataset](https://github.com/luccarallovander/Healthcare-Accessibility-in-London-Dataset) | Spatial data analysis integrating TfL mobility data and Google API hospital reviews to map hospital quality vs patient travel times, producing actionable insights. |
 | [Causal-Inference-Paper-Reappraisal](https://github.com/luccarallovander/Causal-Inference-Paper-Reappraisal) | Reproduces and re-evaluates findings from a published causal inference paper, applying robustness checks and alternative specifications |
